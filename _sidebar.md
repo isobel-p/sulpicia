@@ -1,4 +1,6 @@
-* [Home](/)
+* [Introduction](/)
+* History
+    * [Sulpicia's Life](/life.md)
 * Poems
     * [Sulpicia 1](/sulpicia-1.md)
     * [Sulpicia 2](/sulpicia-2.md)

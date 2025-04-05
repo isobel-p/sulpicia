@@ -1,6 +1,6 @@
 # Sulpicia 5 (Tibullus 3.17)
 ## Latin
-```
+```latin
 Estne tibi, Cerinthe, tuae pia cura puellae,
     quod mea nunc uexat corpora fessa calor?
 A ego non aliter tristes euincere morbos
@@ -9,7 +9,7 @@ At mihi quid prosit morbos euincere, si tu
     nostra potes lento pectore ferre mala?
 ```
 ## English
-```
+```english
 Is there to you, Cerinthus, pious care for you girl,
 because now a fever vexes my feeble flesh?
 But I would not wish otherwise to overcome the sad illnesses

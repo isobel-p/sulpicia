@@ -1,6 +1,6 @@
 # Sulpicia 1 (Tibullus 3.13)
 ## Latin
-```
+```latin
 Tandem uenit amor, qualem texisse pudori
     quam nudasse alicui sit mihi fama magis.
 Exorata meis illum Cytherea Camenis
@@ -14,7 +14,7 @@ sed peccasse iuuat, uultus componere famae
 ```
 
 ## English
-```
+```english
 Finally love came, and the rumour that I had
 concealed would cause greater shame than if I had laid it bare.
 Having been persuaded, Venus brought him to my poetry

@@ -1,6 +1,6 @@
 # Sulpicia 4 (Tibullus 3.16)
 ## Latin
-```
+```latin
 Gratum est, securus multum quod iam tibi de me
     permittis, subito ne male inepta cadam.
 Sit tibi cura togae potior pressumque quasillo
@@ -9,7 +9,7 @@ solliciti sunt pro nobis, quibus illa dolori est
 ne cedam ignoto maxima causa toro.
 ```
 ## English
-```
+```english
 I am grateful that now for you, concerning me
 you permit many things, immediately unconcerned lest I might topple, badly foolish.
 Let care be for you of the toga I obtain and let the whore

@@ -1,6 +1,6 @@
 # Sulpicia 2 (Tibullus 3.14)
 ## Latin 
-```
+```latin
 Inuisus natalis adest, qui rure molesto
     et sine Cerintho tristis agendus erit.
 Dulcius urbe quid est? An uilla sit apta puellae
@@ -11,7 +11,7 @@ Hic animum sensusque meos abducta relinquo
     arbitrio, quamuis non sinis esse, meo.
 ```
 ## English
-```
+```english
 My hated birthday is here, in the vexsome country
 and without Cerinthus sadness will be abounding.
 What is sweeter than the city? And what might be suited to a girl than a villa?
