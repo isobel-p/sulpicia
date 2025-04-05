@@ -1,0 +1,6 @@
+# Themes & Inspiration of Sulpicia's Poetry
+Sulpicia is one of the only female ancient Roman poets (that we know of) and the only one whose poetry has survived. Most female Roman poetry is lost or destroyed: the only remaining evidence of female Roman poetry is [Sulpicia's six elegies in the *Corpus Tibullianum*](/sulpicia-1.md) and some epigrams through inscriptions in Egypt from Julia Balbilla. 
+
+Most poets from this era were from wealthy families and wrote poetry in their leisure time, as they were better educated and did not have to work as much. It is assumed that Sulpicia similarly belonged to a wealthy family. Her poetry reflects a level of education and literary sophistication that suggests she had access to the cultural and intellectual resources of her time.
+
+Sulpicia's six poems are short, but tell [a complete story.](/sulpicia-summary.md) Her work provides a rare glimpse into the thoughts and feelings of a woman in ancient Rome. Sulpicia's voice is honest and personal, addressing her own experiences and desires, which contrasts with the more traditional male perspectives often found in Roman poetry.
