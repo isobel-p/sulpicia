@@ -17,3 +17,10 @@ than if I thought you might wish it as well.
 But for me what does it profit to overcome the illnesses, if you
 are able to bear my ills with an unfeeling heart?
 ```
+
+### Summary
+Sulpicia asks Cerinthus if he cares for her at all, when she is ill with a fever. She says that if her lover is so indifferent to her health, she would prefer not to recover.
+
+[< Sulpicia 4](/sulpicia-4.md)
+
+[> Sulpicia 6](/sulpicia-6.md)

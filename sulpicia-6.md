@@ -17,3 +17,10 @@ of which I might confess to have repented of more,
 than yesterday I left you, alone, at night,
 wishing to conceal my adoration.
 ```
+
+### Summary
+Calling him "my light" (mea lux), Sulpicia tells her lover that she has never done anything so foolish as she did the previous night when she refused to sleep with him for fear of making her love to him too obvious.
+
+[< Sulpicia 5](/sulpicia-5.md)
+
+[> Analysis](/sulpicia-analysis.md)

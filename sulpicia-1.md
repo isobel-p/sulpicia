@@ -26,3 +26,10 @@ lest no one read it before than my own, I would wish,
 but he delights to have done wrong, to compose the appearance of a rumour
 he tires me: let it be said that when I am with someone worthy I am worthy.
 ```
+
+### Summary
+Sulpicia expresses her delight that love has come at last *(tandem venit amor)* and Venus has granted her prayer. She is happy to be able to make her love public rather than keep quiet about it out of modesty.
+
+[< Summary](/sulpicia-summary.md)
+
+[> Sulpicia 2](/sulpicia-2.md)
