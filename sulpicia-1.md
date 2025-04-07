@@ -28,7 +28,7 @@ he tires me: let it be said that when I am with someone worthy I am worthy.
 ```
 
 ### Summary
-Sulpicia expresses her delight that love has come at last *(tandem venit amor)* and Venus has granted her prayer. She is happy to be able to make her love public rather than keep quiet about it out of modesty.
+Sulpicia expresses her delight that love finally comes *(tandem venit amor)* and Venus has granted her prayer. She is happy to be able to make her love public rather than keep quiet about it out of modesty.
 
 [< Summary](/sulpicia-summary.md)
 

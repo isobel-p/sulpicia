@@ -1,4 +1,4 @@
-![](/feather2.png)
+![A reed pen like the kind that Sulpicia would write with](/reed.png)
 
 # Sulpicia
 > Roman poet and inspiring ancient woman.

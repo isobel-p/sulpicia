@@ -1,7 +1,9 @@
 # Sulpicia
 > Roman poet and inspiring ancient woman.
 
-![A painting believed to be of Sulpicia](/sulpicia.png)
-*A painting believed to be of Sulpicia*
+![Cartoon interpretation of Sulpicia](/woman.jpg)
+*Cartoon interpretation of Sulpicia*
 
-Although she is less famous than other ancient Roman poets, she was an influential figure for being one the only female poets.
+Sulpicia was a female ancient Roman poet who wrote six love elegies about love and relationships. She lived during the late 1st century BCE, in Rome, in a relatively wealthy family. And she changed our understanding of women in the ancient world.
+
+This is a short website about Sulpicia, her life, and her poetry. 
