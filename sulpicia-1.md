@@ -1,7 +1,7 @@
 # Sulpicia 1 (Tibullus 3.13)
 ## Latin
 ```latin
-Tandem uenit amor, qualem texisse pudori
+Tandem venit amor, qualem texisse pudori
     quam nudasse alicui sit mihi fama magis.
 Exorata meis illum Cytherea Camenis
     attulit in nostrum deposuitque sinum.
@@ -15,7 +15,7 @@ sed peccasse iuuat, uultus componere famae
 
 ## English
 ```english
-Finally love came, and the rumour that I had
+Finally love comes, and the rumour that I had
 concealed would cause greater shame than if I had laid it bare.
 Having been persuaded, Venus brought him to my poetry
 and laid him in my lap.
@@ -28,8 +28,10 @@ he tires me: let it be said that when I am with someone worthy I am worthy.
 ```
 
 ### Summary
-Sulpicia expresses her delight that love finally comes *(tandem venit amor)* and Venus has granted her prayer. She is happy to be able to make her love public rather than keep quiet about it out of modesty.
+Sulpicia expresses her delight that love finally comes and Venus has granted her prayer. She is happy to be able to make her love public rather than keep quiet about it out of modesty.
 
 [< Summary](/sulpicia-summary.md)
 
 [> Sulpicia 2](/sulpicia-2.md)
+
+[> Analysis](/sulpicia-analysis.md)

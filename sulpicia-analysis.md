@@ -1,0 +1,4 @@
+# Analysing Sulpicia 1
+Sulpicia writes in very complicated sentence structures, with enjambment. This poem is written in the elegiac couplet style, which shows that it is classical Roman love poetry. Sulpicia writes in first person which makes the poems seem more personal and adds individuality to her work.
+
+In line 1 when she says *tandem venit amor*, she changes the word order so that *amor* is the last word in the phrase. This emphasises the love she feels in this poem. In the last line she changes the word order again: *cum digno digna fuisse ferar*. Sulpicia rearranges the words *digno* and *digna*, and *fuisse* and *ferar* to give them alliteration and to make the sentence symmetrical. This helps the words stick in the reader's head as they read the next poems, and they remember this as Sulpicia's relationship with Cerinthus falls apart.

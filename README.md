@@ -1,7 +1,7 @@
 # Sulpicia
 > Roman poet and inspiring ancient woman.
 
-![Cartoon interpretation of Sulpicia](/woman.jpg)
+![Cartoon interpretation of Sulpicia](/woman.png)
 
 *Cartoon interpretation of Sulpicia*
 
